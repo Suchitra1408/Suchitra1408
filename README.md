@@ -2,7 +2,7 @@
 👋 Hi, I'm Suchitra 
 
 🎓 MCA Graduate | 💻 Aspiring Software Developer  
-🌱 Passionate about Web Development, Python, and Java  
+🌱 Passionate about Web Development, Java, and Python.  
 
 I enjoy building real-world projects and continuously improving my
 problem-solving and communication skills. I am currently focusing on
