@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am MCA Graduate ! Java & Python Full Stack Developer.                                                                                                 
+👋 Hi, I'm Suchitra 
+
+🎓 MCA Graduate | 💻 Aspiring Software Developer  
+🌱 Passionate about Web Development, Python, and Java  
+
+I enjoy building real-world projects and continuously improving my
+problem-solving and communication skills. I am currently focusing on
+full-stack development and preparing for IT job opportunities.                                                                                                 
 
 
 ## 🌐 Socials:
